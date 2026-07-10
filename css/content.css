@@ -35,6 +35,7 @@
 	transform: scale(100%);
 	transition-property: background-color, transform;
 	transition-duration: 250ms;
+	will-change: background-color, transform;
 
 	&:hover {
 		background-color: var(--primary-color-dark);
