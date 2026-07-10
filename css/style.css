@@ -15,7 +15,7 @@
 
 :root:has(.light) {
 	--primary-color: #ccc;
-	--primary-color-dark: #ddd;
+	--primary-color-dark: #bbb;
 	--primary-color-light: #333;
 	--accent-color: forestgreen;
 }
